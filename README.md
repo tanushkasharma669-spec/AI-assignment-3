@@ -74,14 +74,14 @@ Extends static navigation to a dynamic environment.
 
 ## How to Run
 
-1. Dijkstra (Cities)
-python dijkstra.py
+1. Dijkstra (Cities) 
+- python dijkstra.py
 
 2. Static UGV
-python static_ugv.py
+- python static_ugv.py
 
 3. Dynamic UGV
-python dynamic_ugv.py
+- python dynamic_ugv.py
 
 ## Algorithms Used
 
