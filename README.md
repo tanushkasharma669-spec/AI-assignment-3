@@ -27,6 +27,7 @@ Finds the shortest path between Indian cities using real-world distances.
 
 **Example Output:**
 
+![dijkstra_op](dijkstra_op.png)
 
 ---
 
